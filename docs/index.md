@@ -11,6 +11,11 @@ status: new
     2. Course 2: 5 ETC  
     3. Course 3: 5 ETC  
 
+
+> [!NOTE]
+> * A supported color model cannot have any leading or trailing spaces within the backticks.
+> * The visualization of the color is only supported in issues, pull requests, and discussions.
+
 ##  Course Name: Course 1
 ## Objectives
 ???+ info "After accomplishing this course, the student will be able to:"
